@@ -24,7 +24,7 @@ $('.hmbanner').owlCarousel({
 
 $('.services').owlCarousel({
     loop:true,
-    nav:true,
+    nav:false,
     dots:false,
     arrow:false,
     responsive:{
@@ -44,7 +44,7 @@ $('.services').owlCarousel({
 
 $('.offer').owlCarousel({
     loop:true,
-    nav:true,
+    nav:false,
     dots:false,
     arrow:false,
     responsive:{
